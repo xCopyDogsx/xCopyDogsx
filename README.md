@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brian Cañon Rojas</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h3 align="center">A passionate student developer from Colombia</h3>
 
 - 🔭 I am currently studying **everything related to programming**
 
