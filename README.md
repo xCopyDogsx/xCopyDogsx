@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **any person interesed in learn**
 
-- 💬 Ask me about **C++,Java & web design**
+- 💬 Ask me about **C++,Java & web design in PHP or ASP.NET**
 
 - 📫 How to reach me **canonbrian123@gmail.com**
 
